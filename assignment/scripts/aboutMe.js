@@ -131,6 +131,14 @@ console.log(luckyResult);
 
 // 17 -- Rewrite question 12 with a `ternary` operator. You'll need to do research!
 
+// I had to comment #17 off cause it messed with the rest of my code!
+// function result(adventurous) {
+//   return adventurous ? "Adventures are great!" : "How about we stay home?";
+// }
+// console.log(result(true));
+// console.log(result(false));
+// console.log(result(null));
+
 // DO NOT MODIFY
 // Used for automated testing
 try {
